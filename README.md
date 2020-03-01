@@ -1,2 +1,2 @@
 # PIG-GAME
-[VISIT PIG GAME](https://duckduckgo.com)
+[VISIT PIG GAME](https://faralummers.github.io/PIG-GAME/)
